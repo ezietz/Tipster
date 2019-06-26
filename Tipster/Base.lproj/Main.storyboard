@@ -106,16 +106,11 @@
             </objects>
             <point key="canvasLocation" x="852.17391304347836" y="133.92857142857142"/>
         </scene>
-        <!--View Controller-->
+        <!--Settings View Controller-->
         <scene sceneID="K14-Se-Cku">
             <objects>
-                <viewController id="ZiP-sf-G8Z" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="CLt-Yx-UdC">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                        <viewLayoutGuide key="safeArea" id="2Wh-UN-ld8"/>
-                    </view>
+                <viewController id="ZiP-sf-G8Z" customClass="SettingsViewController" sceneMemberID="viewController">
+                    <navigationItem key="navigationItem" id="ish-pt-Zms"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="1IB-bI-9HH" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>

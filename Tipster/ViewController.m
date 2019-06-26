@@ -21,11 +21,12 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    self.title = @"Tip Calculator";
     // Do any additional setup after loading the view.
 }
 
 - (IBAction)onTap:(id)sender {
-    NSLog(@"Hello");
+    // NSLog(@"Hello");
     [self.view endEditing:YES];
 }
 
