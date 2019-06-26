@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [X] Modified the UI
+- [X] Modified the UI's colors, layout, and individual view features
 
 ## Video Walkthrough
 
